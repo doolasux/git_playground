@@ -4,4 +4,7 @@
 		echo $something;
 	}
 
+	function do_something(){
+		say_something('do');
+	}
 ?>
